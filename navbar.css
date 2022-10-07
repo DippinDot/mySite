@@ -1,0 +1,43 @@
+.nav {
+  display: flex;
+  padding: 10px;
+}
+
+Button {
+  margin-bottom: 50px;
+}
+
+.subtitle {
+  opacity: 0;
+  transform: translateY(3rem);
+  /* animation: fadeInUp 2s ease calc(var(--typewriterSpeed) + 2s) forwards; */
+  animation: fadeInUp 2s ease 0.5s forwards;
+}
+.subtitle2 {
+  opacity: 0;
+  transform: translateY(3rem);
+  animation: fadeInUp 2s ease 0.7s forwards;
+}
+.subtitle3 {
+  opacity: 0;
+  transform: translateY(3rem);
+  animation: fadeInUp 2s ease 1s forwards;
+}
+
+.subtitle4 {
+  opacity: 0;
+  transform: translateY(3rem);
+  animation: fadeInUp 2s ease 1.3s forwards;
+}
+
+.subtitle5 {
+  opacity: 0;
+  transform: translateY(3rem);
+  animation: fadeInUp 2s ease 1.6s forwards;
+}
+
+.subtitle6 {
+  opacity: 0;
+  transform: translateY(3rem);
+  animation: fadeInUp 2s ease 1.9s forwards;
+}

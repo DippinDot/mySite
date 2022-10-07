@@ -1,0 +1,11 @@
+#center {
+  justify-content: center;
+  text-align: center;
+}
+#carouselimg {
+  height: 350px !important;
+}
+
+Button {
+  z-index: +1;
+}

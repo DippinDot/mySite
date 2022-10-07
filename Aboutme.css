@@ -1,0 +1,24 @@
+/* #whitefont {
+  color: whitesmoke;
+} */
+
+#card {
+  height: 100%;
+}
+
+#timeline {
+  width: 800%; /*Because its in buttonbox class and that has 10% width im overscaling*/
+  height: 300px;
+  display: flex;
+  position: relative;
+  left: 160px;
+  margin-top: -246px;
+  margin-bottom: 4px;
+  margin-left: 35px;
+}
+
+p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+}
